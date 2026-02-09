@@ -310,3 +310,14 @@ It is a **gentle companion** — here to listen, guide, and remind you to breath
 
 > *"Small steps, taken consistently, create real change."*
 
+---
+
+## 👥 Created By
+
+This project was built with care by:
+
+- **Shravani Sunil Dakve**
+- **Mrigesh Koyande**
+- **Maheshree Katla**
+- **Jayani Trivedi**
+

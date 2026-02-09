@@ -14,6 +14,33 @@ It blends a **premium glassmorphism UI**, **local AI-powered chat**, and **welln
 
 ---
 
+## 📸 Screenshots
+
+### Chat Interface
+![Chat Interface](public/Chatinterface.jpeg)
+![Chat Interface Alternative](public/chatinterfacee.jpeg)
+
+### Dashboard
+![Dashboard](public/dashboard.jpeg)
+
+### Persona Profile
+![Persona](public/persona.jpeg)
+
+### Health Analysis
+![Health Analysis](public/health.jpeg)
+
+### Fitness Tracking
+![Fitness Tracking](public/fitness.jpeg)
+
+### Digital Wellbeing
+![Digital Wellbeing](public/wellbeing.jpeg)
+![Digital Wellbeing Alternative](public/wellbeingg.jpeg)
+
+### Digital Detox
+![Digital Detox](public/detox.jpeg)
+
+---
+
 ## 🧠 Core Philosophy
 
 * **Local-first & private** – no required external AI calls
